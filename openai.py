@@ -14,7 +14,7 @@ def generate_text(prompt, max_tokens):
     # Return the generated text
     return response["choices"][0]["text"]
 
-# Start a while loop that continues indefinitely
+# Start a while loop that continues untill user type exit
 while True:
     # Prompt the user to enter a question
     Q = input("Question : ")
