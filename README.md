@@ -10,6 +10,7 @@ Requirements:
 -Openai API_KEY(https://beta.openai.com/account/api-keys)
 
 Usage
+
 -Set your OpenAI API key in the script by replacing YOUR_API_KEY with your actual API key.
 
 -Run the script: python openai.py
@@ -21,5 +22,4 @@ Usage
 
 #Note
 -This script is for educational purposes only and is not intended for production use. The OpenAI API has usage limits and fees that apply to production use.
-
 Please refer to the OpenAI API documentation for more information.
